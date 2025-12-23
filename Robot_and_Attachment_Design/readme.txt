@@ -6,5 +6,6 @@ We purchase extra parts primarily using LEGO’s Pick A Brick (https://www.lego.
 
 We recommend using Brick Architect's LEGO Parts Guide (https://brickarchitect.com/parts) to help FLL teams member better visual the set of potentially available parts.
 
+AndyMark (www.andymark.com) is FLL’s official site for selling previous season kits. Previous season kits are usually a good place to get spare LEGO parts and the previous season kits can be used for training new team members. For example, if a school has two competition teams and a couple of recreational teams, previous season kits would provide a way for recreational team members to gain experience programming a robot to solve missions. Previous seasons is also a good (some times cheaper way) to get lots of good Technic parts.
 
 
