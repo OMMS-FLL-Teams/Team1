@@ -1,2 +1,2 @@
-Pybricks Robot Library used by the team
+Pybricks Robot Library used by the team.
 
