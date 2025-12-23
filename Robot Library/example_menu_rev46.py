@@ -4,7 +4,7 @@
 menu_revision="46"
 #
 from pybricks.tools import wait, run_task, hub_menu
-import robot_library_rev33 as RL
+import robot_library_rev34 as RL
 
 #
 # this is the list of tasks and the main function for each task
