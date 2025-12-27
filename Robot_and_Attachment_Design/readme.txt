@@ -2,10 +2,10 @@ These are our robot and attachment designs we have created for FLL. The designs 
 
 The designs require additional parts beyond what comes in the two LEGO® Education SPIKE™ Prime and SPIKE™ Prime Expansion Sets.
 
-We purchase extra parts primarily using LEGO’s Pick A Brick (https://www.lego.com/en-us/pick-and-build/pick-a-brick)  or BrickOwl (www.brickowl.com). Note that some parts from LEGO Pick A Brick come from Europe or Asia and could take 30+ days to arrive.
+We purchase extra parts primarily using LEGO’s Pick A Brick (https://www.lego.com/en-us/pick-and-build/pick-a-brick) or BrickOwl (www.brickowl.com). Note that some parts from LEGO Pick A Brick come from Europe or Asia and could take 30+ days to arrive.
 
-We recommend using Brick Architect's LEGO Parts Guide (https://brickarchitect.com/parts) to help FLL teams member better visual the set of potentially available parts.
+We recommend using Brick Architect's LEGO Parts Guide (https://brickarchitect.com/parts) to help FLL team members better visual the set of potentially available parts.
 
-AndyMark (www.andymark.com) is FLL’s official site for selling previous season kits. Previous season kits are usually a good place to get spare LEGO parts and the previous season kits can be used for training new team members. For example, if a school has two competition teams and a couple of recreational teams, previous season kits would provide a way for recreational team members to gain experience programming a robot to solve missions. Previous seasons is also a good (some times cheaper way) to get lots of good Technic parts.
+AndyMark (www.andymark.com) is FLL’s official site for selling previous season kits. Previous season kits are usually a good place to get spare LEGO parts and the previous season kits can be used for training new team members. For example, if a school has two competition teams and a couple of recreational teams, previous season kits would provide a way for recreational team members to gain experience programming a robot to solve missions. Previous seasons are also a good (some times cheaper way) to get lots of good Technic parts.
 
 
