@@ -1,6 +1,6 @@
 # Configuration file for robot library 
 # 
-## This code is released unde the Apache License v2.0
+# This code is released unde the Apache License v2.0
 # https://www.apache.org/licenses/LICENSE-2.0.txt
 #
 robotLibraryConfigRev="8"
