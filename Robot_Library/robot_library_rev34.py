@@ -4,7 +4,7 @@
 # https://www.apache.org/licenses/LICENSE-2.0.txt
 #
 #
-# Developed against Pybricks 3.6.1 Beta
+# Developed against Pybricks 3.6.1
 #
 # This code is designed for robots with either two side by side attachment motors which
 # can be in different orientations or robots with a front and top attachment motors 
