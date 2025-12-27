@@ -1,5 +1,8 @@
 #  Task 2 - M09 (“Octopus”) Part 2, M05 (“Angler Fish), M10 Send over the Submersible (lift only),M11 – Sonar Discovery, M14 - Plankton Sample Part
 #
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 # task revision number
 t2_revision="30"
 #
