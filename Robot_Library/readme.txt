@@ -5,3 +5,5 @@ The library supports various attachment configurations including a top/front com
 You will need to update the robot_library_config_rev#.py file file for your robot(s). Currently the code supports 3 robots but can be easily extended for more. The configuration of each robot can be different.
 
 
+This code is released unde the Apache License v2.0
+https://www.apache.org/licenses/LICENSE-2.0.txt
