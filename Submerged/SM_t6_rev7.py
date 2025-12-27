@@ -1,5 +1,8 @@
 #  Task 6 - M15 Research Vessel - Part 1 - drop off samples into vessel
 #
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 #
 # task revision number
 t6_revision="6"
