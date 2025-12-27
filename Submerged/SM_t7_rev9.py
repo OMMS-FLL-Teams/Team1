@@ -1,5 +1,8 @@
 #  Task 7 -  M02 – Shark (p2), M14 – Trident, M15 Research Vessel – Part 2
 #
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 # task revision number
 t7_revision="9"
 #
