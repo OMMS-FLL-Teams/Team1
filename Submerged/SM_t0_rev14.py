@@ -1,5 +1,8 @@
 #  Task 0 - Cleanup Mat and deliver to right home
 #
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 # task revision number
 t0_revision="14"
 #
