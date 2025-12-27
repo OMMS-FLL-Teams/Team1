@@ -1,8 +1,14 @@
-# Robot Lib Demonstration
+# Robot Lib Demonstration Code
+#
+#  This code is intended to demonstration the how to use the robot library.
+#
 #
 # task revision number
 task_number="1"     # enter the task number here 
-task_revision="3"
+task_revision="3"   # enter your revision number for the code. While we use github to store our code
+                    # storage, we use rev# numbers appended to files to separate different revisions
+                    # this is  MUCH LESS complex to explain to kids and new parent coaches than the
+                    # complexities of Git and how to revert to previous revisions.
 #
 import robot_library_rev34 as RL
 
@@ -14,7 +20,7 @@ async def T#_Run():
 
     await RL.initializeRobotForTask()
     
-    waitForPrompt=False  # let's you step through each robot command or run a bunch then go step by step
+    waitForPrompt=False  # let's you step through each robot command or run a bunch steps and then go step by step
     RL.debugL1=False     # some debug information
     RL.debugL2=False     # a lot of debug information
 
@@ -25,13 +31,20 @@ async def T#_Run():
     #await RL.moveAttachment("right",-165,1000,False,"hold",False,True, waitForPrompt)
 
     # example of using an "if" statement to allow different robots to have slightly different settings
+    # LEGO Spike hubs, batteries, and motors age/wear over time. The wear is not consistent 
+    # so you will find different robots will have slightly different behaviors for code so the below
+    # approach let's you use slightly different code for each robot for the commands that result in
+    # different behavior. Not all commands will result in inconsistent behavior between different
+    # robots.
+    #
     #if RL.hubname == "T1PrimaryHub"   : await RL.driveRobot(690,750,500,"hold",waitForPrompt)
     #if RL.hubname == "T1SecondaryHub" : await RL.driveRobot(695,740,500,"hold",waitForPrompt)
     
 
     # 
-    #  Syntax for the Robot Library commands (for reference) and an example
-    # 
+    #  Syntax for the Robot Library commands (for reference) and an example. The Pybricks Editor
+    #  will also display the function arguments   
+    #
     # moveAttachment(attachmentStr,degrees,speed,waitMode,stopMode,resetAngle,stallDetect,waitForPrompt)
     # await RL.moveAttachment("right",-165,1000,False,"hold",False,True, waitForPrompt)
     #
