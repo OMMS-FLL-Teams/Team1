@@ -1,5 +1,8 @@
 # Base Robot Code shared by all tasks
-# 
+#
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 coreLib_revision="13"
 # 18 Jan 2025
 #
