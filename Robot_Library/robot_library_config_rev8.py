@@ -79,7 +79,7 @@ class RobotConfig:
 ###########################################
 
 
-# number of hubs that are supported
+# number of hubs that are supported. More can be added if interested.
 NumberOfHubs=3
 
 robotConfigs=[]
