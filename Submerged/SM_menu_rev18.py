@@ -1,4 +1,7 @@
-# Team 2 Submerged Main menu
+# Team 1 Submerged Main menu
+#
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
 #
 # menu revision number
 menu_revision="18"
