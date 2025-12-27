@@ -1,5 +1,8 @@
 # Team 1 Robot menu
 #
+# This code is released unde the Apache License v2.0
+# https://www.apache.org/licenses/LICENSE-2.0.txt
+#
 # menu revision number
 menu_revision="46"
 #
@@ -13,7 +16,7 @@ import robot_library_rev34 as RL
 # The name of the task file minus the .py file extension
 
 from ue_t1_rev11 import T1_Run
-from ue_t2a_rev23 import T2_Run
+from ue_t2_rev23 import T2_Run
 from ue_t3_rev31 import T3_Run
 from ue_t4_rev25 import T4_Run
 from ue_t5_rev14 import T5_Run
@@ -36,6 +39,9 @@ print("Robot Menu, rev#",menu_revision)
 #hubNum=input("Enter Hub Number: ")
 #initiatizeRobot(int(hubNum))
 
+# this is needed because Pybricks does not have a way to get the name of a robot prior to initializing
+# it and the reinitialization of the hub is not recommended
+#
 # 0 = CoachHub
 # 1 = T1PrimaryHub
 # 2 = T1SecondaryHub
