@@ -1,7 +1,7 @@
 # Team 1 Robot menu
 #
 # menu revision number
-menu_revision="49"
+menu_revision="50"
 #
 from pybricks.tools import wait, run_task, hub_menu
 import robot_library_rev33 as RL
