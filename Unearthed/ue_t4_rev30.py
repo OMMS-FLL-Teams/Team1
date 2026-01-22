@@ -26,8 +26,9 @@ async def T4_Run():
 
     if RL.debugL1: print(" who lived here ")
     await RL.turnRobot(-22,300,400,"hold",waitForPrompt)
-    await RL.driveRobot(50,400,500,"hold",waitForPrompt)
+    await RL.driveRobot(50,200,200,"hold",waitForPrompt)
     await RL.moveAttachment("right",-149,300,False,"hold",False,True, waitForPrompt)
+    await RL.driveRobot(-5,200,200,"hold",waitForPrompt)
     await RL.wait(500)
     await RL.turnRobot(-27,300,400,"hold",waitForPrompt)
     await RL.wait(500)
@@ -39,12 +40,11 @@ async def T4_Run():
 
     if RL.debugL1: print("  what's on sale - red paddle")
     await RL.turnRobot(-47,300,400,"hold",waitForPrompt)
-    await RL.driveRobot(480,600,500,"hold",waitForPrompt)
+    await RL.driveRobot(450,600,500,"hold",waitForPrompt)
     await RL.turnRobot(19,300,400,"hold",waitForPrompt)
     await RL.driveRobot(-280,300,500,"hold",waitForPrompt)
     await RL.wait(500)
 
-    
     if RL.debugL1: print("   tip the scales - bucket")        
     await RL.driveRobot(80,800,600,"hold",waitForPrompt)
     await RL.turnRobot(-114,400,400,"hold",waitForPrompt)

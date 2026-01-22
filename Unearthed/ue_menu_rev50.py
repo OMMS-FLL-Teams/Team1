@@ -13,7 +13,7 @@ import robot_library_rev33 as RL
 # The name of the task file minus the .py file extension
 
 from ue_t1_rev12 import T1_Run
-from ue_t2_rev31 import T2_Run
+from ue_t2_rev32 import T2_Run
 from ue_t3_rev33 import T3_Run
 from ue_t4_rev30 import T4_Run
 from ue_t5_rev20 import T5_Run
