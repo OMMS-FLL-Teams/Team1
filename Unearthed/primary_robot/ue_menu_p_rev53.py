@@ -13,9 +13,9 @@ import robot_library_rev33 as RL
 # The name of the task file minus the .py file extension
 
 from ue_t1_p_rev12 import T1_Run
-from ue_t2_p_rev44 import T2_Run
+from ue_t2_p_rev46 import T2_Run
 from ue_t3_p_rev33 import T3_Run
-from ue_t4_p_rev33 import T4_Run
+from ue_t4_p_rev34 import T4_Run
 from ue_t5_p_rev23 import T5_Run
 
 #
@@ -39,7 +39,7 @@ print("Robot Menu, rev#",menu_revision)
 # 2 = T1SecondaryHub
 #
 # Set your hub number!
-HubNum=1
+HubNum=2
 if HubNum == -2:
     print("ERROR, hub number=",HubNum," is not valid, pick a valid hub number in the menu!")
 RL.initiatizeRobot(HubNum)
