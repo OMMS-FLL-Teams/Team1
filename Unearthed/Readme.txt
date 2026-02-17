@@ -1,6 +1,5 @@
 2025-2026 Unearthed Source Code
 
-this code was for a S (secondary) robot which is what we used in competition
+main robot lib, robot config, and "main robot menu" used but each robot
 
-Update: all new code has been moved into the robot specific folders
-
+each of our robots has there own folder. this is primarily due to the minor differences in motors, hub gyroscope, and build pieces that cause sometimes minor changes to the code usually a CM or few MM of distance or a degree or two of angle difference.
