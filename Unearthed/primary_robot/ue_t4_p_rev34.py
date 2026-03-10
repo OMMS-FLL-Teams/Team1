@@ -1,4 +1,5 @@
-# Robot Lib Demonstration
+# Unearthed Task 4
+# Missions 5, 6, 10 (part), 9 (part)
 #
 # task revision number
 task_number="4"     # enter the task number here 
