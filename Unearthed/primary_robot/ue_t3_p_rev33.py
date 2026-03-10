@@ -1,4 +1,5 @@
-# Robot Lib Demonstration
+# Unearthed Task 3 
+# Drive from left to right side of mat
 #
 # task revision number
 task_number="3"     # enter the task number here 
