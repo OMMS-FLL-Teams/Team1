@@ -1,4 +1,5 @@
-# Robot Lib Demonstration
+# Unearthed Task 2
+# Missions 1,2,3 and drives to right side of board
 #
 # task revision number
 task_number="2"      
